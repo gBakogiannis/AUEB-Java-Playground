@@ -1,0 +1,6 @@
+Greece Athens Thessaloniki Patras Heraklion Larissa
+USA New_York Los_Angeles Chicago Houston Phoenix
+Germany Berlin Munich Hamburg Frankfurt Stuttgart
+Greece Volos Kavala Rhodes Ioannina Trikala
+USA Philadelphia San_Antonio San_Diego Dallas San_Jose
+Germany Dortmund Essen Leipzig Bremen Dresden
